@@ -11,3 +11,11 @@ Original contributors are:
 - Ntwali Muhizi
 - Daniela Gjorgjeva 
 - Mak Fazlic
+
+# Guide to compiling :rocket:
+1. Make sure your **working directory** is `repo/game/src/`
+(Use the `cd` command to change current working directory)
+2. Run `Main.rkt` using _Racket_
+```bash
+racket Main.rkt
+```
