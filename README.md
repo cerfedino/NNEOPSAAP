@@ -7,7 +7,7 @@ Space Invaders-like game written in Racket
 This project was the final group project for _Programming Fundamentals 1 SA 2020-2021_, part of BSc INF at USI Lugano.
 
 Original contributors are:
-- Myself
+- Albert Cerfeda
 - Ntwali Muhizi
 - Daniela Gjorgjeva 
 - Mak Fazlic
